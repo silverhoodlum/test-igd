@@ -1,0 +1,53 @@
+.card{
+    width: 23%;
+    margin: 2% auto ;
+    text-align: center;
+    border-style: none;
+    background-color: #f4f4f4;
+}
+
+.card img{
+    width: 100%;
+}
+
+.title{
+    margin-bottom: 0.5rem;
+    font-size: 1.05rem;
+}
+
+.minimum-price{
+    font-size: 1.1rem;
+    margin: 0 auto 0.6rem auto;
+}
+
+.btn-get-price{
+    background-color: #37a2b7;
+    color: #ffffff;
+    border-style: none;
+    font-size: 1.2rem;;
+}
+
+@media only screen and (max-width: 768px) {
+    .card{
+        width: 45%;
+        margin: 1rem auto ;
+        text-align: center;
+        border-style: none;
+        background-color: #f4f4f4;
+    }
+    .title{
+        margin-bottom: 0.4rem;
+        font-size: .9rem;
+    }
+    .minimum-price{
+        font-size: .9rem;
+        margin: 0 auto 0.6rem auto;
+    }
+    .btn-get-price{
+        background-color: #37a2b7;
+        color: #ffffff;
+        border-style: none;
+        font-size: 1rem;;
+    }
+    
+}

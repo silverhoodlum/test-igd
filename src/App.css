@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.Igd-logo {
+  margin: 8rem auto 1rem auto;
+  pointer-events: none;
+  width: 30%;
+}
+
+.Igd-decription{
+  font-size: 1.18rem;
+  width:75%;
+  padding: 0.7% !important ;
+  border-top: 2px solid #dddcdc;
+  border-bottom: 2px solid #dddcdc;
+}
+
+.App-header {
+  height: 17vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  margin-bottom: 2.8rem;
+
+}
+
+
+@media only screen and (max-width: 768px) {
+  .App {
+    margin-bottom: 0;
+  }
+  .Igd-logo {
+    margin: 10rem auto .5rem auto;
+    width: 80%;
+    pointer-events: none;
+  }
+
+  .Igd-decription{
+    font-size: 1rem;
+    width:90%;
+    padding: 1% !important ;
+    border-top: 2px solid #dddcdc;
+    border-bottom: 2px solid #dddcdc;
+  }
+  .App-header {
+    margin-bottom: 7rem;
+  }
+  
+}

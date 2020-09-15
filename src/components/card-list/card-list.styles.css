@@ -1,0 +1,12 @@
+.card-list{
+    display: flex;
+    flex-flow: row wrap;
+    width: 75%;
+    margin: 5rem auto 2rem auto;
+}
+
+@media only screen and (max-width: 768px) {
+    .card-list{
+        margin: 7rem auto 2rem auto;
+    }
+}

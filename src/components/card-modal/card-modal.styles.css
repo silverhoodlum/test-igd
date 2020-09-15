@@ -1,0 +1,80 @@
+.modal-60w { 
+    max-width: 60% !important;
+ }
+
+
+.modal-img-col img{
+  width: 100%;
+}
+
+.modal-text-col{
+  padding-left: 1rem;
+}
+
+.modal-header{
+    border-style: none;
+}
+
+.input-wrap{
+    border: 1px solid #727171;
+    border-radius: 3px;
+}
+
+.modal-input{
+    border-style: none;
+    display: inline;
+    width: 85%;
+    font-size: 1rem;
+    padding-left: 1rem;
+}
+
+input:focus{
+    outline: none;
+}
+/* Code snippet taken from StackOverflow to remove input arrows*/
+/* Chrome Safari Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.svg-inline--fa {
+    color:#14b33c !important;
+}
+
+.warning{
+    color:red;
+}
+
+.total-price{
+    margin-top:2rem;
+    font-size: 2rem;
+}
+
+.btn-total-price{
+    width: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+    .modal-60w { 
+        max-width: 100% !important;
+     }
+
+     .input-col{
+        margin: .1rem auto 1rem auto;
+    }
+    .total-price{
+        margin-top:1rem;
+    }
+    .warning{
+        text-align: center;;
+        margin-bottom: 0;
+    }
+}
