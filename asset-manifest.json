@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/test-igd/static/css/main.0c4f1247.chunk.css",
+    "main.js": "/test-igd/static/js/main.42b2a544.chunk.js",
+    "main.js.map": "/test-igd/static/js/main.42b2a544.chunk.js.map",
+    "runtime-main.js": "/test-igd/static/js/runtime-main.aa6f5a08.js",
+    "runtime-main.js.map": "/test-igd/static/js/runtime-main.aa6f5a08.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/test-igd/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2800f447.chunk.js": "/test-igd/static/js/2.2800f447.chunk.js",
+    "static/js/2.2800f447.chunk.js.map": "/test-igd/static/js/2.2800f447.chunk.js.map",
+    "index.html": "/test-igd/index.html",
+    "precache-manifest.15f80f0a3082d3de07d36ca0702021ec.js": "/test-igd/precache-manifest.15f80f0a3082d3de07d36ca0702021ec.js",
+    "service-worker.js": "/test-igd/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/test-igd/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.0c4f1247.chunk.css.map": "/test-igd/static/css/main.0c4f1247.chunk.css.map",
+    "static/js/2.2800f447.chunk.js.LICENSE.txt": "/test-igd/static/js/2.2800f447.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/test-igd/static/media/logo.53cc366d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa6f5a08.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2800f447.chunk.js",
+    "static/css/main.0c4f1247.chunk.css",
+    "static/js/main.42b2a544.chunk.js"
+  ]
+}
